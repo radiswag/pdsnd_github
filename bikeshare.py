@@ -1,3 +1,13 @@
+"""
+Bikeshare Data Analysis Script
+Author: Radiel Gebreselassie
+
+This script analyzes bikeshare data for different cities (Chicago, New York City, Washington). 
+It prompts the user to input a city, month, and day for analysis. 
+Based on the user input, it loads the corresponding dataset, filters it according to the specified month and day, 
+and then computes various statistics such as the most common times of travel, popular stations, trip duration, 
+and user demographics.
+"""
 import time
 import pandas as pd
 import numpy as np
