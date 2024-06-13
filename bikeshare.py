@@ -1,3 +1,9 @@
+# Radiel Gebreselassie
+## June 14, 2024
+
+### Purpose:
+The purpose of this project is to analyze bikeshare data from three major cities: Chicago, New York City, and Washington, D.C. The project aims to provide insights into bike usage patterns and demographics to support urban planning and transportation decision-making.
+
 import time
 import pandas as pd
 import numpy as np
